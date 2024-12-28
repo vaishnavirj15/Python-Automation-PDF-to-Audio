@@ -6,13 +6,13 @@ This project is a Flask-based application that converts PDF pages into audio fil
 
 ## Features
 
-- **PDF Upload**: Users can upload a PDF file via a clean and intuitive interface.
-- **Page Selection**: After uploading, users can select a specific page to convert to audio.
-- **Text Extraction**: 
+**PDF Upload**: Users can upload a PDF file via a clean and intuitive interface.
+**Page Selection**: After uploading, users can select a specific page to convert to audio.
+**Text Extraction**: 
   - Extracts text from text-based PDFs using **PyMuPDF**.
   - For scanned PDFs, uses OCR (via **pytesseract**) to extract text from images.
-- **Audio Conversion**: Converts the extracted text into audio using **pyttsx3** and saves it as an MP3 file.
-- **Audio Playback and Download**: Users can:
+**Audio Conversion**: Converts the extracted text into audio using **pyttsx3** and saves it as an MP3 file.
+  **Audio Playback and Download**: Users can:
   - Listen to the audio directly in the browser.
   - Download the audio file for offline use.
 
