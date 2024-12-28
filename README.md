@@ -57,7 +57,7 @@ This project is a Flask-based application that converts PDF pages into audio fil
    - **Ensure Tesseract is installed and accessible in your system's PATH**.
    - **Update the Tesseract command path in the Python script if necessary**.
 4. **Prepare the application**:
-   -- **Place the Flask application code in app.py**.
+   - **Place the Flask application code in app.py**.
 ---
 
 
@@ -80,14 +80,14 @@ This project is a Flask-based application that converts PDF pages into audio fil
 ---
 
 
-### **Usage Instructions**
+## Usage Instructions
 **Upload a PDF**: Use the web interface to upload a PDF file.
 **Select a Page**: Choose the page number you want to convert.
 **Generate Audio**:The application extracts text and converts it into an MP3 file.
 Listen to the audio in the browser or download it for offline use.
 ---
 
-## **Notes**
+## Notes
 **Ensure the PDF file is either text-based or scanned (OCR-compatible)**.
 **Configure Tesseract for optimal OCR performance if dealing with scanned PDFs**.
 **Modify the frontend code in templates or static folders for custom UI changes**.
@@ -96,11 +96,11 @@ Listen to the audio in the browser or download it for offline use.
 # **Acknowledgements**
 This project uses the following libraries:
 
-**Flask**
-**PyMuPDF**
-**pytesseract**
-**pyttsx3**
-**pdf2image**
+- **Flask**
+- **PyMuPDF**
+- **pytesseract**
+- **pyttsx3**
+- **pdf2image**
 
 
 ### Key Highlights:
