@@ -81,16 +81,16 @@ This project is a Flask-based application that converts PDF pages into audio fil
 
 
 ## Usage Instructions
-**Upload a PDF**: Use the web interface to upload a PDF file.
-**Select a Page**: Choose the page number you want to convert.
-**Generate Audio**:The application extracts text and converts it into an MP3 file.
-Listen to the audio in the browser or download it for offline use.
+- **Upload a PDF**: Use the web interface to upload a PDF file.
+- **Select a Page**: Choose the page number you want to convert.
+- **Generate Audio**:The application extracts text and converts it into an MP3 file.
+- **Listen to the audio in the browser or download it for offline use**.
 ---
 
 ## Notes
-**Ensure the PDF file is either text-based or scanned (OCR-compatible)**.
-**Configure Tesseract for optimal OCR performance if dealing with scanned PDFs**.
-**Modify the frontend code in templates or static folders for custom UI changes**.
+- **Ensure the PDF file is either text-based or scanned (OCR-compatible)**.
+- **Configure Tesseract for optimal OCR performance if dealing with scanned PDFs**.
+- **Modify the frontend code in templates or static folders for custom UI changes**.
 ---
 
 # **Acknowledgements**
