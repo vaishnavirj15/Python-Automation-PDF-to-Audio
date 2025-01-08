@@ -48,7 +48,7 @@ This project is a Flask-based application that converts PDF pages into audio fil
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/pdf-to-audio-converter.git
+   git clone https://github.com/your-username/Python-Automation-PDF-to-Audio.git
    cd pdf-to-audio-converter
 2. **Install the required dependencies**:
    ```bash
@@ -108,7 +108,7 @@ This project uses the following libraries:
 2. **Detailed Features Section**: Breaks down functionality for clarity.
 3. **Tech Stack Breakdown**: Separates backend and frontend tools for better understanding.
 
-Replace `https://github.com/your-username/pdf-to-audio-converter.git` with the actual GitHub URL. Let me know if you need further refinements!
+Replace `(https://github.com/your-username/Python-Automation-PDF-to-Audio.git)` with the actual GitHub URL. Let me know if you need further refinements!
 
 
 
